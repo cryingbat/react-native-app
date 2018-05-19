@@ -1,13 +1,12 @@
 # react-native-app
 recently,The technology of react-native is very hot,so, I wrote an app for myself, a react-native。
- Pack of the generated apk installation package here 
- # https://github.com/cryingbat/react-redux-demo,
+ Pack of the generated apk installation package in the Advanced project (integrated redux state management) https://github.com/cryingbat/react-redux-demo,
+ 
+ 
  The installation package of android4.4/5.1/6.0 runs smoothly.
   and I hope you can give me more advice.Thank you.
-The technology stack is involved in the project:
-# react+react-native+ui/nativebase/react-navigation，
-Third-party components:
-# native-echarts/react-native-actionsheet/react-native-modal/react-native-swiper/react-native-vector-icons
+The technology stack is involved in the project:react+react-native+ui/nativebase/react-navigation，
+Third-party components:native-echarts/react-native-actionsheet/react-native-modal/react-native-swiper/react-native-vector-icons
 
 first:The app will have a full screen rotation of three images，
 ![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/4.jpg)

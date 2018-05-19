@@ -1,21 +1,23 @@
 # react-native-app
-最近学习的react-native,将自己所学到的集合为一个app,所以这个app并非传统意义的app。希望大家多提意见。共同学习
-#项目涉及到的技术栈有react+react-native+ui组件nativebase+导航组件react-navigation，
-#第三方组件native-echarts+react-native-actionsheet+react-native-modal+react-native-swiper+react-native-vector-icons
+recently，The technology of react-native is very hot,In this case, I also wrote an app for myself, a react-native。Pack of the generated apk installation package here https://github.com/cryingbat/react-redux-demo，The installation package of android4.4/5.1/6.0 runs smoothly。
+I hope you can give us more advice. Mutual learning.
+#The technology stack is involved in the project:react+react-native+ui/nativebase/react-navigation，
+#Third-party components:native-echarts/react-native-actionsheet/react-native-modal/react-native-swiper/react-native-vector-icons
 
-#首先进入app会有个全屏轮播图三张，
+#first:The app will have a full screen rotation of three images，
 ![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/4.jpg)
-#第三张有进入app的进入按钮，
+#The third one has access to the app，
 ![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/5.jpg)
-#点击进入进到登陆界面，
-#点击登陆存储session进入到主页
+#Click to enter the login screen，
+#Click on the login store session to enter the home page
 
-#主页总共三大板块：首页+新闻+我的
+#The homepage has three main sections: front page + news + mine
 ![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/3.jpg)
-#其中首页  我放的新闻的列表  支持上拉加载更多和下拉刷新功能。点击新闻可以进入新闻详情页面。
-#新闻页面  放的是一个可以滑动的tab支持多tab横向滚动。具体内容没放。
+#The list of news items I put on the front page supports loading more and drop-down refresh functions. 
+Click on the news to enter the news page.。
+#The news page has a sliding TAB that supports multi-tab horizontal scrolling. The details are not in place.
 ![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/2.jpg)
-#我的页面  是一些ui组件的集合。如：
+#My page is a collection of UI components. Such as:
 
 ![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/0.jpg)
-#对于初学者来说，快速掌握react-native的用法以及导航的切换。有着非常大的作用。希望大家一起学习一起进步
+#For beginners, get a quick command of the react-native usage and navigation switch. It has a very big effect. I hope you can study together and make progress together.

@@ -7,20 +7,16 @@
 
 ## section screenshorts
 
-first:The app will have a full screen rotation of three images，
+first:The app will have a full screen rotation of three images， <br/>
 ![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/4.jpg)
-The third one has access to the app，
 ![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/5.jpg)
-Click to enter the login screen，
  Click on the login store session to enter the home page
-
- The homepage has three main sections: front page + news + mine
+ The homepage has three main sections: front page + news + mine <br/>
 ![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/3.jpg)
  The list of news items I put on the front page supports loading more and drop-down refresh functions. 
 Click on the news to enter the news page.。
- The news page has a sliding TAB that supports multi-tab horizontal scrolling. The details are not in place.
+ The news page has a sliding TAB that supports multi-tab horizontal scrolling. The details are not in place. <br/> 
 ![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/2.jpg)
- My page is a collection of UI components. Such as:
-
+ My page is a collection of UI components. Such as:<br/>
 ![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/0.jpg)
 # For beginners, get a quick command of the react-native usage and navigation switch. It has a very big effect. I hope you can study together and make progress together.

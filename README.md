@@ -1,12 +1,11 @@
 # react-native-app
-recently,The technology of react-native is very hot,so, I wrote an app for myself, a react-native。
- Pack of the generated apk installation package in the Advanced project (integrated redux state management) https://github.com/cryingbat/react-redux-demo,
- 
- 
- The installation package of android4.4/5.1/6.0 runs smoothly.
-  and I hope you can give me more advice.Thank you.
-The technology stack is involved in the project:react+react-native+ui/nativebase/react-navigation，
-Third-party components:native-echarts/react-native-actionsheet/react-native-modal/react-native-swiper/react-native-vector-icons
+ recently,The technology of react-native is very hot,so, I wrote an app for myself, a react-native。 <br/>
+ Pack of the generated apk installation package in the Advanced project (integrated redux state management) [Advanced](https://github.com/cryingbat/react-redux-demo),
+ and The installation package of android4.4/5.1/6.0 runs smoothly.  <br/> so I hope you can give me more advice.Thank you. <br/>
+  The technology stack is involved in the project:[react](https://github.com/facebook/react)+[react-native](https://github.com/facebook/react-native)+[nativebase](https://github.com/GeekyAnts/NativeBase)+[react-navigation](https://github.com/react-navigation/react-navigation)，<br/>
+  Third-party components:[native-echarts](https://github.com/somonus/react-native-echarts)+[react-native-actionsheet](https://github.com/beefe/react-native-actionsheet)+[react-native-modal](https://github.com/react-native-community/react-native-modal)+[react-native-swiper](https://github.com/leecade/react-native-swiper)+[react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+
+## section screenshorts
 
 first:The app will have a full screen rotation of three images，
 ![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/4.jpg)

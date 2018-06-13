@@ -11,12 +11,19 @@
     "native-base": "^2.4.1",
     "native-echarts": "^0.4.0",
     "react": "16.3.0-alpha.1",
+    "react-lazyload": "^2.3.0",
     "react-native": "0.54.3",
     "react-native-actionsheet": "^2.4.0",
     "react-native-modal": "^5.4.0",
+    "react-native-picker": "^4.3.7",
     "react-native-swiper": "^1.5.13",
     "react-native-vector-icons": "^4.5.0",
-    "react-navigation": "^1.5.8"
+    "react-navigation": "^1.5.8",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-actions": "^2.3.0",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.2.0"
   },
   "devDependencies": {
     "babel-jest": "22.4.3",

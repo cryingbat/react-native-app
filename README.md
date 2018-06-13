@@ -24,6 +24,40 @@ For beginners, get a quick command of the react-native usage and navigation swit
 
 ![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/Screenshot_1528869036.png)![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/Screenshot_1528869041.png)![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/Screenshot_1528869045.png)![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/Screenshot_1528868822.png)![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/Screenshot_1528868898.png)![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/Screenshot_1528868918.png)![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/Screenshot_1528868953.png)![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/Screenshot_1528868959.png)![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/Screenshot_1528868969.png)![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/Screenshot_1528868732.png)![](https://github.com/cryingbat/react-native-app/raw/master/screenshorts/Screenshot_1528869000.png)
 
+
+# tree
+```
+myapp                         
+│   ├── android              安卓系统的信息                  
+│   ├── ios                  ios系统的信息
+│   ├── screenshorts         项目部分截图                          
+├── src                      项目源代码
+│   ├── common               公共组件                   
+│   ├── home                 首页
+│   ├── imgs                 所有图片
+│   ├── login                登录页
+│   ├── me                   我的页
+│   ├── page                 新闻页
+│   ├── store                redux配置        
+│   ├── area.json            省市区文件
+│   ├── slider.js            app进入轮播页 
+│   └── index.js             项目入口文件             
+├── package.json         项目依赖             
+├── .bablelrc            bable配置
+├── .buckconfig    
+├── .followconfig
+├── .gitignore
+├── .watchmanconfig 
+├── app-latest.apk       最新生成的apk文件
+├── app.json             app信息   
+├── appv0.0.1.apk        上次打包的app版本
+├── readme.md            readme
+├── router.js            路由配置文件 
+├── yarn.lock
+```
+
+
+
 # development
 
 ```
